@@ -1,0 +1,21 @@
+Command to convert pdf to text:
+
+pdftotext cm15_aug17.pdf cm15_aug17.txt
+
+Search terms:
+
+cat *.txt|grep 'racism'
+cat *.txt|grep 'white privilege'
+cat *.txt|grep 'racist'
+cat *.txt|grep 'Mr. Roberts'
+cat *.txt|grep 'Wolfe'
+cat *.txt|grep 'Race Matters'
+cat *.txt|grep 'University of Missouri'
+cat *.txt|grep 'racial'
+
+Findings: The conversion of the pdf to text went pretty well, however the conversion created a massive number of line breaks within the individual text files. I ran a test after joining all the lines of text via sublime. The good news: searching the text via command line offered more context. The bad news: it was printing out the majority of the text file. 
+
+To keep with the spirit of the assignment of trying to draw conclusions within a short timeline, I decided to run a search of some general terms and let results inform the next search. The problem with the line break throughout the text files is that it's sometimes difficult to determine who is speaking. 
+
+Here's what i know:
+Since August there has been some discussion related to the behavior of Dale Roberts of the Columbia Police Officer's Association. Apparently he has a habit of posting offensive (racist) things to the organization's Facebook page and people are pretty pissed off about it. There has been very little discussion in relation to Tim Wolfe, save for a few lines about the incident during the parade when his vehicle was blocked. An organization called Race Matters has had several people speak directly to the city council over this period of time. There also seemed to be some discussion regarding racial inequality and police behavior with council members mentioning that they had recently updated the city's Strategic Plan to address social and racial inequity.    
